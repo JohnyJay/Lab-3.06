@@ -7,7 +7,7 @@
 List 3 tasks that can be accomplished with native SQL that you cannot do with JPQL.
 1. When we want to used stored procedures in the database, it is advised to use native SQL allowing for a seamless interaction with database specific items such as stored procedures.
 2. When performance is critical, queries can be optimized in native SQL and don't require intermediate libraries to process the code.
-3. When specific database or SQL functions are needed, like for example casting, concatenating or other posible operations that are not available in JPQL, using native SQL is advised to perform these tasks.
+3. When specific database or SQL functions are needed, like for example casting, concatenating or other posible operations that are not available in JPQL, the use of native SQL is advised for performing these tasks.
 
 ## Introduction
 
